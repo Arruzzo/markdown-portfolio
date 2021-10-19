@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Black and white image of an acoustic guitar played by myself](https://pauloarruzzo.com.br/wp-content/uploads/2020/07/violaook.png)
