@@ -1,2 +1,1 @@
-Paulo Arruzzo
-#1st Header - GitHub course
+# Paulo Arruzzo 1st Header - GitHub course
