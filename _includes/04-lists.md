@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Voice
+2. Guitar :guitar:
+ 1. Lead
+ 2. Solo
+3. Bass
+4. Drums
