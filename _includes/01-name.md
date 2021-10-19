@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+Paulo Arruzzo
+#1st Header - GitHub course
